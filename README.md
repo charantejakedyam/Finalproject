@@ -27,13 +27,12 @@ Automate and display the following:
   - Storage Type: Open
   - Exclude out-of-stock items
 - Display the **name and price** of the **first 3 bookshelves**
-- If multiple items have the same price, include all
  
----
+
  
 ### Task 2: Collections Menu Extraction
 - Navigate to **Collections**
-- Select **Being At Home**
+- Select **Furnishing**
 - Retrieve **all sub-menu items**
 - Store them in a **List / Collection**
 - Display the stored items
