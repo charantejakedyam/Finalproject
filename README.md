@@ -4,7 +4,7 @@
 This project automates user scenarios on an e-commerce furniture website (Suggested site: https://www.urbanladder.com).
 The automation covers product filtering, menu extraction, form validation, and essential Selenium concepts.
  
----
+
  
 ## Problem Statement
  
