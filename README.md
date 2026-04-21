@@ -16,10 +16,7 @@ Automate and display the following:
 - **Storage type** must be **Open**
 - If more than one item has the **same price**, include all such items
  
-### Study Chairs
-- Display the **first 3 study chairs** with the **highest recommendation**
- 
----
+
  
 ## Hackathon Tasks
  
@@ -78,7 +75,6 @@ Automate and display the following:
 ## Expected Output
  
 - Bookshelf names and prices in console
-- Study chairs with highest recommendations
 - List of sub-menu items under Being At Home
 - Gift card validation error message
  
